@@ -1,0 +1,39 @@
+body {
+    background-color: #e3ece6;
+}
+.log-out {
+    padding: 20px;
+}
+
+.col {
+    box-shadow: 3px 3px 20px -3px #6F7777;
+    border-radius: 6px;
+}
+.options {
+    background-color:#F0F1B3;
+    padding: 10px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+.col-form-label {
+    padding-left: 10px;
+    background-color: #A3A7E4;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+.heading {
+    background-color: #4649FF;
+    width: 100%;
+    height: 50px;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 1px 2px 15px black;
+}
+.form-check {
+    margin-top: 20px;
+    margin-right: 20px;
+
+}
